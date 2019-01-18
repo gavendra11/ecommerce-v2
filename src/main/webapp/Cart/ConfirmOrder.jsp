@@ -97,8 +97,8 @@
         <br>
         <br>
         <br>
-        <div class="jumbotron" style="color:white;background-color: black; margin-top: 60px; margin-bottom: 0;">
+<!--        <div class="jumbotron" style="color:white;background-color: black; margin-top: 60px; margin-bottom: 0;">
             <p>Welcome to Ecom</p>
-        </div>
+        </div>-->
     </body>
 </html>
